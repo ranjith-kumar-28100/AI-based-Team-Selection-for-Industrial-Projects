@@ -1,0 +1,10 @@
+cno,f1,f2,f3,s1,s2,s3
+5,Rating,Experience,JS_project_count,0.3,0.3,0.4
+5,Rating,JS_project_count,Experience,0.3,0.6,0.1
+4,Rating,Total_projects,AI_project_count,0.2,0.3,0.5
+4,AI_project_count,ML_project_count,JS_project_count,0.3,0.3,0.4
+3,Dotnet_project_count,Rating,Experience,0.6,0.2,0.2
+3,DotNet_project_count,Rating,Experience,0.5,0.3,0.2
+4,JS_project_count,Rating,Total_projects,0.5,0.2,0.3
+5,DOTNET_project_count,ML_project_count,AI_project_count,0.5,0.3,0.2
+5,JS_project_count,DotNet_project_count,Rating,0.4,0.3,0.3
